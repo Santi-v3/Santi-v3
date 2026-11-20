@@ -6,9 +6,9 @@ Hamburg, Germany
 
 ## About me
 
-I work at Krüger Consulting as a Business Systems & Automations Specialist and study Business Information Systems (B.Sc.) at Leuphana University Lüneburg. I am interested in the intersection of business processes, artificial intelligence, automation and practical software engineering.
+I study Business Information Systems (B.Sc.) at Leuphana University Lüneburg and build personal projects at the intersection of business processes, artificial intelligence, automation and practical software engineering.
 
-The repositories below are personal projects. They document experiments and working prototypes; they do not represent work commissioned by my employer.
+The repositories below document personal experiments and working prototypes.
 
 ## What I build
 
@@ -27,7 +27,7 @@ The repositories below are personal projects. They document experiments and work
 | [AI Coding Router](https://github.com/Santi-v3/ai-coding-router) | PowerShell task router for coordinating multiple coding agents and model providers. | PowerShell, JSON |
 | [SeatForge](https://github.com/Santi-v3/SeatForge) | Windows prototype for discovering, assigning and managing connected devices. | C#, .NET, WPF |
 
-## Technologies
+## Technologies in these repositories
 
 **Languages:** Python · TypeScript · JavaScript · PowerShell · C# · Shell  
 **Applications and frameworks:** FastAPI · Next.js · Node.js · Electron · .NET · WPF  
