@@ -6,7 +6,7 @@ Hamburg, Germany
 
 ## About me
 
-I study Business Information Systems (B.Sc.) at Leuphana University Lüneburg and build personal projects at the intersection of business processes, artificial intelligence, automation and practical software engineering.
+I build personal projects at the intersection of business processes, artificial intelligence, automation and practical software engineering.
 
 The repositories below document personal experiments and working prototypes.
 
