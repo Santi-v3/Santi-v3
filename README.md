@@ -1,20 +1,20 @@
-# Santino Burkhardt
+# Santino
 
-**Business Systems & Automations Specialist**  
-AI Automation · Business Systems · Software Engineering  
+**Personal AI-Driven Projects**  
+AI Agents · Workflow Automation · Developer Tools · Software Engineering  
 Hamburg, Germany
 
 ## About me
 
-I build personal projects at the intersection of business processes, artificial intelligence, automation and practical software engineering.
+I build personal AI-driven software projects that explore how artificial intelligence, automation and software engineering can solve practical problems.
 
-The repositories below document personal experiments and working prototypes.
+This GitHub documents independent prototypes and experiments across local AI agents, multi-agent workflows, developer tools, full-stack applications and system integration.
 
 ## What I build
 
 - AI agents and local LLM integrations
-- Workflow and business process automation
-- Full-stack applications and business software prototypes
+- AI-driven workflow automation
+- Full-stack applications and software prototypes
 - Developer automation tools
 - Data-driven and creative automation workflows
 
