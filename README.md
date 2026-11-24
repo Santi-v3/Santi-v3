@@ -1,42 +1,39 @@
-# Santino
+# Santino Burkhardt
 
-**Personal AI-Driven Projects**  
-AI Agents · Workflow Automation · Developer Tools · Software Engineering  
+**AI automation · Local-first agents · Developer tools · Software engineering**  
 Hamburg, Germany
 
-## About me
+I build practical software prototypes around AI agents, workflow automation and system integration. My focus is not just on making a demo work, but on documenting its boundaries, keeping human approval visible and making the project understandable to other developers.
 
-I build personal AI-driven software projects that explore how artificial intelligence, automation and software engineering can solve practical problems.
+## Featured work
 
-This GitHub documents independent prototypes and experiments across local AI agents, multi-agent workflows, developer tools, full-stack applications and system integration.
+| Project | What it demonstrates | Main technologies | Status |
+| --- | --- | --- | --- |
+| [**Sagent**](https://github.com/Santi-v3/sagent) | A local-first AI agent with a web interface, API, persistent memory and policy-controlled developer workflows. | Python, FastAPI, Next.js, TypeScript, SQLite, Ollama | Active prototype |
+| [**Sagent Lab**](https://github.com/Santi-v3/sagent-lab) | Provider abstractions, approval concepts, shell automation and voice-integration experiments. | TypeScript, Node.js, Shell | Research lab |
+| [**SeatForge**](https://github.com/Santi-v3/SeatForge) | A Windows desktop prototype for discovering connected devices and recording seat assignments. | C#, .NET 8, WPF, WMI | Early prototype |
+| [**AI Coding Router**](https://github.com/Santi-v3/ai-coding-router) | A configurable PowerShell router for selecting coding-agent workflows by task type and review level. | PowerShell, JSON | Prototype |
 
-## What I build
+## Engineering themes
 
-- AI agents and local LLM integrations
-- AI-driven workflow automation
-- Full-stack applications and software prototypes
-- Developer automation tools
-- Data-driven and creative automation workflows
+- Local-first AI and model integrations where practical
+- Human review and explicit approval for tool-driven changes
+- Full-stack prototypes with clear architecture and setup documentation
+- Workflow automation across Python, TypeScript, PowerShell and C#
+- Honest project status, limitations and security boundaries
 
-## Featured public projects
-
-| Project | What it explores | Stack |
-| --- | --- | --- |
-| [Sagent](https://github.com/Santi-v3/sagent) | Local AI agent with a web interface, API, memory and policy-controlled development workflows. | Python, FastAPI, Next.js, TypeScript, SQLite, Ollama |
-| [Sagent Lab](https://github.com/Santi-v3/sagent-lab) | Provider abstractions, shell-based agent tooling and voice-integration experiments. | TypeScript, Node.js, shell scripts |
-| [AI Coding Router](https://github.com/Santi-v3/ai-coding-router) | PowerShell task router for coordinating multiple coding agents and model providers. | PowerShell, JSON |
-| [SeatForge](https://github.com/Santi-v3/SeatForge) | Windows prototype for discovering, assigning and managing connected devices. | C#, .NET, WPF |
-
-## Technologies in these repositories
+## Technology
 
 **Languages:** Python · TypeScript · JavaScript · PowerShell · C# · Shell  
-**Applications and frameworks:** FastAPI · Next.js · Node.js · Electron · .NET · WPF  
-**Local AI and data:** Ollama · SQLite  
-**Practices:** REST API integration · workflow automation · automated checks · human review of tool-driven changes
+**Frameworks and platforms:** FastAPI · Next.js · Node.js · Electron · .NET · WPF  
+**Data and AI:** SQLite · Ollama · local model runtimes  
+**Practices:** REST APIs · automation · tests and CI · documentation · human-in-the-loop workflows
+
+## About these repositories
+
+These are independent personal projects and experiments. Each public repository explains what is implemented, how to run it and which parts are still experimental.
 
 ## Connect
 
 - [LinkedIn](https://de.linkedin.com/in/santino-burkhardt-38b157391)
 - [GitHub](https://github.com/Santi-v3)
-
-Personal portfolio website: coming later.
