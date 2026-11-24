@@ -9,6 +9,7 @@ I build practical software prototypes around AI agents, workflow automation and 
 
 | Project | What it demonstrates | Main technologies | Status |
 | --- | --- | --- | --- |
+| [**Salon Booking System**](https://github.com/Santi-v3/salon-booking-portfolio) | Appointment booking with a customer page, authenticated admin dashboard and SQLite persistence. | JavaScript, Node.js, Express, Electron, SQLite | Portfolio prototype |
 | [**Sagent**](https://github.com/Santi-v3/sagent) | A local-first AI agent with a web interface, API, persistent memory and policy-controlled developer workflows. | Python, FastAPI, Next.js, TypeScript, SQLite, Ollama | Active prototype |
 | [**Sagent Lab**](https://github.com/Santi-v3/sagent-lab) | Provider abstractions, approval concepts, shell automation and voice-integration experiments. | TypeScript, Node.js, Shell | Research lab |
 | [**SeatForge**](https://github.com/Santi-v3/SeatForge) | A Windows desktop prototype for discovering connected devices and recording seat assignments. | C#, .NET 8, WPF, WMI | Early prototype |
